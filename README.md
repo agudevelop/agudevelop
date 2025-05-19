@@ -13,5 +13,5 @@
 
 
 ## GitHub Analytics
-![agudevelop's GitHub stats](https://github-readme-stats.vercel.app/api?username=agudevelop&show_icons=true&theme=dark)
+![agudevelop's GitHub stats](https://github-readme-stats.vercel.app/api?username=agudevelop&show_icons=true&theme=dark&hide_title=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agudevelop&layout=compact&theme=dark)
