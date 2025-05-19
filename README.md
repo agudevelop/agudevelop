@@ -1,16 +1,17 @@
-## Hi there 👋
+<div align="center">
+<h1 align="center">Hello, I'm agudevelop👋</h1>
+</div>
 
-<!--
-**agudevelop/agudevelop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+🎓 I'm currently learning software development on my own, focusing on mobile and desktop applications. 
+💡 In my free time, I work on personal projects to apply and enhance what I've learned.  
+🚀 My goal is to become a professional Android and iOS developer.  
+📫 Feel free to reach out: agudevelop.dev@gmail.com.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##Featured prijects
+
+
+## GitHub Analytics
+![agudevelop's GitHub stats](https://github-readme-stats.vercel.app/api?username=agudevelop&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agudevelop&layout=compact&theme=dark)
