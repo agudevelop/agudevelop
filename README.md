@@ -4,7 +4,7 @@
 
 ## About Me
 
-🎓 I'm currently learning software development on my own, focusing on mobile and desktop applications. 
+🎓 I'm currently learning software development on my own, focusing on mobile and desktop applications.  
 💡 In my free time, I work on personal projects to apply and enhance what I've learned.  
 🚀 My goal is to become a professional Android and iOS developer.  
 📫 Feel free to reach out: agudevelop.dev@gmail.com.
